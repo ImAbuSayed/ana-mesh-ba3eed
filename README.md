@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليلي طال شوقي وناري.. Ya layli taal shawqi wa nari..
+> في عيوني بان سري وأسراري.. Fi 'uyuni ban sirri wa asrari..
+> أنتي قمر يضوي مساري.. Anti qamar yadwi masari..
+> ونجوم الليل تحكي أخباري.. Wa nujum al-layl tahki akhbari..
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
